@@ -28,19 +28,19 @@
 
 Open Stock Market main.py and replace:
 
-     STOCK_API_KEY = "YOUR_STOCK_API_KEY"
+      STOCK_API_KEY = "YOUR_STOCK_API_KEY"
      NEWS_API_KEY  = "YOUR_STOCK_NEWS_API_KEY"
 
 
 ### 3.	Install the few packages
 
-        python -m pip install requests pandas matplotlib
-        # On Linux you may also need: sudo apt install python3-tk
+      python -m pip install requests pandas matplotlib
+      # On Linux you may also need: sudo apt install python3-tk
   
 
 ### Run
 
-        python "Stock Market main.py"
+      python "Stock Market main.py"
 
 Type a ticker symbol like AAPL or MSFT, hit Search, and the app fetches the data.
 
