@@ -1,4 +1,4 @@
-# Stock-News-Viewer
+# Stock-Market-Viewer
 
 **Tkinter app that:**
 - shows a chart of a stock’s daily closing price (past 6 months).
