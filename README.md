@@ -28,7 +28,7 @@
 
 Open Stock Market main.py and replace:
 
-      STOCK_API_KEY = "YOUR_STOCK_API_KEY"
+     STOCK_API_KEY = "YOUR_STOCK_API_KEY"
      NEWS_API_KEY  = "YOUR_STOCK_NEWS_API_KEY"
 
 
